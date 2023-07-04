@@ -1,0 +1,18 @@
+.extendedIntro {
+    display: none;
+}
+
+.justifiedText {
+    text-align: justify;
+}
+.extendedRow {
+    display: none;
+}
+
+.resume_link {
+    color: rgb(115, 171, 206);
+}
+
+.resume_link:hover {
+    color: green;
+}
